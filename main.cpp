@@ -9,5 +9,6 @@ int main(int argc, char *argv[])
 
     // test comment
     // test comment 2
+    // test comment 3
     return a.exec();
 }
