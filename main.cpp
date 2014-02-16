@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     w.show();
 
     // test comment
+    // test comment 2
     return a.exec();
 }
